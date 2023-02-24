@@ -1,0 +1,22 @@
+.rootcomponent {
+  background-color: rgb(215, 21, 215);
+  padding: 10px;
+  color: black;
+}
+.Grandparent {
+  background-color: rgb(246, 93, 93);
+  padding: 20px;
+  color: black;
+}
+.Parent {
+  background-color: rgb(3, 152, 152);
+  padding: 20px;
+}
+.Child1 {
+  background-color: green;
+  padding: 20px;
+}
+.Child2 {
+  background-color: rgb(91, 91, 194);
+  padding: 20px;
+}
